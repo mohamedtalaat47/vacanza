@@ -1,0 +1,1032 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Allegiant\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-08 13:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: core/markup.php:946
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: core/markup.php:537
+#, php-format
+msgid "%1$s Comments"
+msgstr ""
+
+#: core/markup.php:906
+#, php-format
+msgid "%s comments"
+msgstr ""
+
+#: core/markup.php:203
+#, php-format
+msgid "<a href=\"%1$s\">%2$s</a> theme by CPOThemes."
+msgstr ""
+
+#: core/metadata/data_customizer.php:165
+msgid "Activate this to display the site title as text."
+msgstr ""
+
+#: includes/class-cpo-theme.php:33
+msgid "Activate: CPO Companion"
+msgstr ""
+
+#: includes/class-cpo-theme.php:40
+msgid "Activate: Modula"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:12
+msgid "Add more slides, control the appearance & position of slides."
+msgstr ""
+
+#: core/metadata/data_customizer.php:195
+msgid "Add your custom tagline here."
+msgstr ""
+
+#: includes/class-cpo-theme.php:134
+msgid "Advanced"
+msgstr ""
+
+#. Name of the theme
+msgid "Allegiant"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Allegiant is a free multipurpose WordPress theme perfect for agencies and "
+"professionals. This theme comes with support for a full homepage slider, "
+"feature blocks, portfolios, services, team members, and even testimonials, "
+"all thanks to its companion plugin CPO Content Types. Allegiant is one of "
+"the best business WordPress themes thanks to its neutral design and extreme "
+"flexibility. Moreover, this theme also integrates with popular plugins such "
+"as WooCommerce, Yoast SEO, WPML, and Contact Form 7."
+msgstr ""
+
+#: core/markup.php:22
+msgid "Archive"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:38
+msgid "Best security plugins"
+msgstr ""
+
+#: core/metadata/data_customizer.php:123
+msgid "Blog Posts"
+msgstr ""
+
+#: core/metadata/data_general.php:32
+msgid "Boxed"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:78
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Description and "
+"Clients Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:48
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section Description "
+"& Features Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:60
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section Description "
+"and Services Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:66
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section Description "
+"and Team Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:72
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section Description "
+"and Testimonials Columns"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:54
+msgid ""
+"By upgrading to the PRO version you'll be able to add a: Section Description,"
+" Portfolio Columns & Related Portfolio Images"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:49
+msgid "Cheap WordPress hosting"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:18
+msgid "Check recommended actions"
+msgstr ""
+
+#: includes/class-cpo-theme.php:27
+msgid ""
+"Clicking the button below will add content, widgets and set static front "
+"page to your WordPress installation. Click advanced to customize the import "
+"process. This procces might take up to 1 min. Please don't close the window."
+msgstr ""
+
+#: core/metaboxes.php:31
+msgid "Client Options"
+msgstr ""
+
+#: core/metadata/data_customizer.php:108
+msgid "Clients"
+msgstr ""
+
+#: core/metadata/data_customizer.php:377
+msgid "Clients Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:390
+msgid "Clients Description"
+msgstr ""
+
+#: core/metadata/data_customizer.php:436
+msgid "Color Options"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:5
+#: includes/libraries/welcome-screen/sections/support.php:10
+msgid "Contact Support"
+msgstr ""
+
+#: includes/class-cpo-theme.php:123
+msgid "CPO Companion"
+msgstr ""
+
+#. Author of the theme
+msgid "CPOThemes"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:18
+msgid ""
+"Create a WooCommerce powered shop. Supports WooCommerce v3.x and upwards"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:88
+msgid "Critical security updates "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:29
+msgid "Custom Color Schemes & Color Controls"
+msgstr ""
+
+#: core/metadata/data_customizer.php:424
+msgid "Custom Colors"
+msgstr ""
+
+#: core/metadata/data_customizer.php:145
+msgid "Custom Logo"
+msgstr ""
+
+#: core/metadata/data_customizer.php:117
+msgid "Custom typefaces for the entire site."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:35
+msgid "Custom Typography Controls"
+msgstr ""
+
+#: core/metadata/data_customizer.php:437
+msgid ""
+"Customize the colors of primary and secondary elements, as well as headings, "
+"navigation, and text."
+msgstr ""
+
+#: core/metadata/data_customizer.php:205
+msgid "Customize the speed, timeout and effects of the homepage slider."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:83
+msgid "Dedicated Support Team"
+msgstr ""
+
+#: core/layout.php:18
+msgid "Default Widgets"
+msgstr ""
+
+#: includes/class-cpo-theme.php:153
+msgid "Demo Content"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:11
+msgid "Determines the location of the sidebar by default."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:15
+msgid "Documentation"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:30
+msgid "Easily change your site's color schemes."
+msgstr ""
+
+#: core/markup.php:95 core/markup.php:929 core/markup.php:968
+msgid "Edit"
+msgstr ""
+
+#: core/metadata/data_customizer.php:403
+msgid "Enable Posts On Homepage"
+msgstr ""
+
+#: core/metadata/data_customizer.php:164
+msgid "Enable Text Title"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:27
+msgid ""
+"Even if you're a long-time WordPress user, we still believe you should give "
+"our documentation a very quick Read."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:77
+msgid "Extend the Clients Section "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:47
+msgid "Extend the Features Section"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:53
+msgid "Extend the Portfolio Section "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:59
+msgid "Extend the Services Section "
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:65
+msgid "Extend the Team Members Section"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:71
+msgid "Extend the Testimonials Section "
+msgstr ""
+
+#: core/markup.php:594
+msgid "Facebook"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:28
+msgid "Feature Icon"
+msgstr ""
+
+#: core/metaboxes.php:19
+msgid "Feature Options"
+msgstr ""
+
+#: core/metadata/data_customizer.php:394
+msgid "Featured clients"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:45 core/metadata/data_metaboxes.php:62
+#: core/metadata/data_metaboxes.php:79
+msgid "Featured Item"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:104
+msgid "Featured Member"
+msgstr ""
+
+#: core/metadata/data_customizer.php:63
+msgid "Features"
+msgstr ""
+
+#: core/metadata/data_customizer.php:218
+msgid "Features Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:233
+msgid "Features Description"
+msgstr ""
+
+#: core/markup.php:662 core/markup.php:664
+msgid "First"
+msgstr ""
+
+#: core/layout.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: core/layout.php:48
+msgid "Footer Widgets"
+msgstr ""
+
+#: core/metadata/data_customizer.php:221 core/metadata/data_customizer.php:255
+#: core/metadata/data_customizer.php:287 core/metadata/data_customizer.php:318
+#: core/metadata/data_customizer.php:349 core/metadata/data_customizer.php:380
+msgid ""
+"For each section, apart from title one you can also add a description for "
+"users to better understand your sections content"
+msgstr ""
+
+#: core/metadata/data_customizer.php:155
+msgid "Forces the logo to have a specified width."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:30
+msgid "Full documentation"
+msgstr ""
+
+#: core/metadata/data_general.php:31
+msgid "Full Width"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:94
+msgid "Future feature updates "
+msgstr ""
+
+#: core/metadata/data_customizer.php:9
+msgid "General Theme Options"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:129
+msgid "Get The Pro Version Now!"
+msgstr ""
+
+#: core/metadata/data_customizer.php:187 core/metadata/data_customizer.php:225
+#: core/metadata/data_customizer.php:229 core/metadata/data_customizer.php:262
+#: core/metadata/data_customizer.php:293 core/metadata/data_customizer.php:324
+#: core/metadata/data_customizer.php:355 core/metadata/data_customizer.php:386
+#: core/metadata/data_customizer.php:432
+msgid "Get the PRO version!"
+msgstr ""
+
+#: core/markup.php:444 core/markup.php:460
+#, php-format
+msgid "Go to %s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:38
+msgid "Go to Customizer"
+msgstr ""
+
+#: core/markup.php:602
+msgid "Google+"
+msgstr ""
+
+#: core/metadata/data_customizer.php:16
+msgid ""
+"Here you can find settings that control the structure and positioning of "
+"specific elements within your website."
+msgstr ""
+
+#: core/markup.php:404
+msgid "Home"
+msgstr ""
+
+#: core/metadata/data_customizer.php:46
+msgid "Homepage"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:28
+msgid "How to speed up WordPress"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://cpothemes.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://cpothemes.com/theme/allegiant"
+msgstr ""
+
+#: includes/class-cpo-theme.php:118
+msgid "Import Content"
+msgstr ""
+
+#: includes/class-cpo-theme.php:26 includes/class-cpo-theme.php:131
+#: includes/class-cpo-theme.php:133
+msgid "Import Demo Content"
+msgstr ""
+
+#: includes/class-cpo-theme.php:119
+msgid "Import Widgets"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:44
+msgid "Improved"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:11
+msgid "Improved Slider Options"
+msgstr ""
+
+#: core/metadata/data_customizer.php:177
+msgid "Improved Tagline"
+msgstr ""
+
+#: core/metadata/data_general.php:42
+msgid "In The Featured Boxes"
+msgstr ""
+
+#: core/metadata/data_customizer.php:181
+msgid ""
+"In the PRO version of Allegiant, the tagline transforms in a CTA section "
+"with buttons and descriptions."
+msgstr ""
+
+#: core/metadata/data_general.php:41
+msgid "In The Slider"
+msgstr ""
+
+#: core/metadata/data_customizer.php:146
+msgid "Insert the URL of an image to be used as a custom logo."
+msgstr ""
+
+#: includes/class-cpo-theme.php:33
+msgid "Install: CPO Companion"
+msgstr ""
+
+#: includes/class-cpo-theme.php:40
+msgid "Install: Modula"
+msgstr ""
+
+#: includes/class-cpo-theme.php:34
+msgid ""
+"It is highly recommended that you install the CPO Content Types plugin. It "
+"will help you manage all the special content types that this theme supports."
+msgstr ""
+
+#: includes/class-cpo-theme.php:41
+msgid "It is highly recommended that you install the Modula plugin."
+msgstr ""
+
+#: core/markup.php:678 core/markup.php:680
+msgid "Last"
+msgstr ""
+
+#: core/metadata/data_customizer.php:15
+msgid "Layout"
+msgstr ""
+
+#: core/metaboxes.php:12 core/metaboxes.php:123
+msgid "Layout Options"
+msgstr ""
+
+#: core/metadata/data_customizer.php:33
+msgid "Learn more"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:105
+msgid "Lite"
+msgstr ""
+
+#: core/metadata/data_customizer.php:32
+msgid "LITE vs PRO comparison"
+msgstr ""
+
+#: core/metadata/data_customizer.php:154
+msgid "Logo Width (px)"
+msgstr ""
+
+#: core/layout.php:66
+msgid "Main Menu"
+msgstr ""
+
+#: core/metadata/data_customizer.php:332
+msgid "Meet our team"
+msgstr ""
+
+#: core/metaboxes.php:34
+msgid "Member Options"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:43
+msgid "Minimal"
+msgstr ""
+
+#: includes/class-cpo-theme.php:124
+msgid "Modula Gallery"
+msgstr ""
+
+#: core/markup.php:984
+msgid "Newer"
+msgstr ""
+
+#: core/forms.php:44
+msgid "No"
+msgstr ""
+
+#: core/markup.php:533
+msgid "No Comments"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:15
+msgid "No recommended actions left to perform"
+msgstr ""
+
+#: core/markup.php:432
+msgid "No results were found. Please try searching with different terms."
+msgstr ""
+
+#: core/metadata/data_general.php:40
+msgid "None"
+msgstr ""
+
+#: core/markup.php:981
+msgid "Older"
+msgstr ""
+
+#: core/markup.php:535
+msgid "One Comment"
+msgstr ""
+
+#: core/markup.php:904
+msgid "One comment"
+msgstr ""
+
+#: core/metadata/data_customizer.php:10
+msgid "Options that help you manage your theme better."
+msgstr ""
+
+#: core/metadata/data_customizer.php:237
+msgid "Our core features"
+msgstr ""
+
+#: core/markup.php:24 core/markup.php:402
+msgid "Page Not Found"
+msgstr ""
+
+#: core/metaboxes.php:42
+msgid "Page Options"
+msgstr ""
+
+#: core/markup.php:228
+msgid "Pages"
+msgstr ""
+
+#: includes/class-cpo-theme.php:145
+msgid "Plugins"
+msgstr ""
+
+#. Name of the template
+#: core/metadata/data_customizer.php:72
+msgid "Portfolio"
+msgstr ""
+
+#: core/metadata/data_customizer.php:251
+msgid "Portfolio Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:266
+msgid "Portfolio Description"
+msgstr ""
+
+#: core/metaboxes.php:22
+msgid "Portfolio Options"
+msgstr ""
+
+#: core/filters.php:72
+msgid "Portfolio Size"
+msgstr ""
+
+#: core/markup.php:234
+msgid "Post Categories"
+msgstr ""
+
+#: core/metaboxes.php:41
+msgid "Post Options"
+msgstr ""
+
+#: core/markup.php:236
+msgid "Post Tags"
+msgstr ""
+
+#: core/init.php:21
+msgid "Premium Version"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:106
+msgid "PRO"
+msgstr ""
+
+#: core/metaboxes.php:25
+msgid "Product Options"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:24
+#: includes/libraries/welcome-screen/sections/features.php:42
+msgid "Re-order your site's front-page sections in any way you want."
+msgstr ""
+
+#: core/markup.php:562
+msgid "Read More"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:33
+#: includes/libraries/welcome-screen/sections/support.php:44
+#: includes/libraries/welcome-screen/sections/support.php:55
+msgid "Read more"
+msgstr ""
+
+#: includes/class-cpo-theme.php:98
+msgid "Recomended Actions"
+msgstr ""
+
+#: includes/class-cpo-theme.php:100
+msgid "Recomended Plugins"
+msgstr ""
+
+#: core/metadata/data_customizer.php:252
+msgid "Related Portfolios"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:23
+msgid "Reorder Homepage Sections"
+msgstr ""
+
+#: core/metadata/data_customizer.php:178
+msgid "Reorder Sections"
+msgstr ""
+
+#: core/markup.php:427
+msgid "Search"
+msgstr ""
+
+#: core/markup.php:389
+msgid "Search Results"
+msgstr ""
+
+#: core/markup.php:26
+msgid "Search Results for"
+msgstr ""
+
+#: core/layout.php:30
+msgid "Secondary Widgets"
+msgstr ""
+
+#: core/metadata/data_customizer.php:217 core/metadata/data_customizer.php:250
+#: core/metadata/data_customizer.php:283 core/metadata/data_customizer.php:314
+#: core/metadata/data_customizer.php:345 core/metadata/data_customizer.php:376
+msgid "Section Description"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:20
+msgid "See our full documentation"
+msgstr ""
+
+#: core/metadata/data_customizer.php:185 core/metadata/data_customizer.php:227
+#: core/metadata/data_customizer.php:260 core/metadata/data_customizer.php:291
+#: core/metadata/data_customizer.php:322 core/metadata/data_customizer.php:353
+#: core/metadata/data_customizer.php:384 core/metadata/data_customizer.php:430
+msgid "See PRO vs Lite"
+msgstr ""
+
+#: core/metadata/data_customizer.php:413
+msgid ""
+"Select custom fonts for the headings, navigation, and body text of your site."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:87
+msgid "Service Icon"
+msgstr ""
+
+#: core/metaboxes.php:28
+msgid "Service Options"
+msgstr ""
+
+#. Name of the template
+#: core/metadata/data_customizer.php:81
+msgid "Services"
+msgstr ""
+
+#: core/metadata/data_customizer.php:284
+msgid "Services Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:297
+msgid "Services Description"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:29
+msgid "Sets an icon to be used as the featured element."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:88
+msgid "Sets an icon to be used as the service preview."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:121
+msgid "Show In Homepage"
+msgstr ""
+
+#: core/layout.php:32
+msgid "Shown in pages with more than one sidebar."
+msgstr ""
+
+#: core/layout.php:49
+msgid "Shown in the footer area."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:10
+msgid "Sidebar Position"
+msgstr ""
+
+#: core/layout.php:20
+msgid "Sidebar shown in all standard pages by default."
+msgstr ""
+
+#: core/metadata/data_customizer.php:39
+msgid "Site Wide Structure"
+msgstr ""
+
+#: core/metaboxes.php:16
+msgid "Slide Options"
+msgstr ""
+
+#: core/metadata/data_customizer.php:54
+msgid "Slider"
+msgstr ""
+
+#: core/metadata/data_customizer.php:204
+msgid "Slider Options"
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:46 core/metadata/data_metaboxes.php:63
+#: core/metadata/data_metaboxes.php:80
+msgid "Specifies whether this item appears in the homepage."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:122
+msgid "Specifies whether this item is featured in the homepage."
+msgstr ""
+
+#: core/metadata/data_metaboxes.php:105
+msgid "Specifies whether this member appears in the homepage."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:11
+msgid "Step 1 - Implement recommended actions"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:26
+msgid "Step 2 - Check our documentation"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:35
+msgid "Step 3 - Customize everything"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:41
+msgid "Tagline"
+msgstr ""
+
+#: core/metadata/data_customizer.php:191
+msgid "Tagline Title"
+msgstr ""
+
+#: core/metadata/data_customizer.php:270
+msgid "Take a look at our work"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:30
+msgid ""
+"Take a look at why website speed is crucial and ways you can speed up "
+"WordPress so that you can confidently say you hold your own amongst the "
+"billions of web pages!"
+msgstr ""
+
+#. Name of the template
+msgid "Team"
+msgstr ""
+
+#: core/metadata/data_customizer.php:315
+msgid "Team Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:90
+msgid "Team Members"
+msgstr ""
+
+#: core/metadata/data_customizer.php:328
+msgid "Team Members Description"
+msgstr ""
+
+#: core/metaboxes.php:37
+msgid "Testimonial Options"
+msgstr ""
+
+#: core/metadata/data_customizer.php:99
+msgid "Testimonials"
+msgstr ""
+
+#: core/metadata/data_customizer.php:346
+msgid "Testimonials Columns"
+msgstr ""
+
+#: core/metadata/data_customizer.php:359
+msgid "Testimonials Description"
+msgstr ""
+
+#: core/markup.php:177
+msgid ""
+"The requested page could not be found. It could have been deleted or changed "
+"location. Try searching for it using the search function."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:51
+msgid ""
+"There are so many services offering cheap WordPress hosting out there that "
+"picking a winner can often seem like a game of chance. This article will "
+"hopefully allow you to make an informed decision, catered to your needs"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:40
+msgid ""
+"Thinking that the best WordPress security plugins aren't going to come cheap,"
+" not to mention free? Luckily, that's not the case."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:17
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentation is an incredible resource for learning the ins and outs "
+"of using Allegiant."
+msgstr ""
+
+#: core/markup.php:888
+msgid ""
+"This page is protected. Please type the password to be able to read its "
+"contents."
+msgstr ""
+
+#: core/layout.php:65
+msgid "Top Menu"
+msgstr ""
+
+#: core/markup.php:598
+msgid "Twitter"
+msgstr ""
+
+#: core/metadata/data_customizer.php:116 core/metadata/data_customizer.php:130
+msgid "Typography"
+msgstr ""
+
+#: core/metadata/data_customizer.php:412
+msgid "Typography Options"
+msgstr ""
+
+#: core/metaboxes.php:49
+#, php-format
+msgid ""
+"Upgrade to %s for multiple sidebar layouts, control over the "
+"header/title/footer, and integration with Revolution Slider."
+msgstr ""
+
+#: core/metaboxes.php:75
+#, php-format
+msgid "Upgrade to %s to add descriptions and social links to team members."
+msgstr ""
+
+#: core/metaboxes.php:78
+#, php-format
+msgid "Upgrade to %s to add descriptions to testimonials."
+msgstr ""
+
+#: core/metaboxes.php:60
+#, php-format
+msgid "Upgrade to %s to control the layout of portfolio items."
+msgstr ""
+
+#: core/metaboxes.php:64
+#, php-format
+msgid ""
+"Upgrade to %s to control the layout of products and access multiple icon "
+"libraries."
+msgstr ""
+
+#: core/metaboxes.php:68
+#, php-format
+msgid ""
+"Upgrade to %s to control the layout of services and access multiple icon "
+"libraries."
+msgstr ""
+
+#: core/metaboxes.php:56
+#, php-format
+msgid ""
+"Upgrade to %s to control the linking of feature blocks and access multiple "
+"icon libraries."
+msgstr ""
+
+#: core/metaboxes.php:52
+#, php-format
+msgid ""
+"Upgrade to %s to control the position and appearance of slides, as well as "
+"adding a foreground image."
+msgstr ""
+
+#: core/metaboxes.php:71
+#, php-format
+msgid "Upgrade to %s to link client items to a URL."
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:36
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: core/markup.php:501
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:36
+msgid "Want a different font family? No problem. Just an upgrade away."
+msgstr ""
+
+#: includes/class-cpo-theme.php:99
+msgid "We are social"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/support.php:7
+msgid ""
+"We offer excellent support through our advanced ticketing system. Make sure "
+"to register your purchase before contacting support!"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/getting-started.php:12
+msgid ""
+"We've compiled a list of steps for you, to take make sure the experience "
+"you'll have using one of our products is very easy to follow."
+msgstr ""
+
+#: core/markup.php:590
+msgid "Website"
+msgstr ""
+
+#: core/metadata/data_customizer.php:363
+msgid "What they say about us"
+msgstr ""
+
+#: core/metadata/data_customizer.php:301
+msgid "What we can offer you"
+msgstr ""
+
+#: includes/libraries/welcome-screen/sections/features.php:17
+msgid "WooCommerce Support"
+msgstr ""
+
+#: core/forms.php:39
+msgid "Yes"
+msgstr ""
+
+#: core/metadata/data_customizer.php:427
+msgid ""
+"You can change your site's colors directly from Customizer. Changes happen "
+"in real time."
+msgstr ""
+
+#: core/metadata/data_customizer.php:257
+msgid "You can enable related portfolio."
+msgstr ""
+
+#: core/metadata/data_customizer.php:182
+msgid "You can order Homepage sections anyway you want"
+msgstr ""
+
+#: core/metadata/data_customizer.php:381
+msgid "You can select on how many Columns you want to show your clients."
+msgstr ""
+
+#: core/metadata/data_customizer.php:222
+msgid "You can select on how many Columns you want to show your features."
+msgstr ""
+
+#: core/metadata/data_customizer.php:256
+msgid "You can select on how many Columns you want to show your portfolio."
+msgstr ""
+
+#: core/metadata/data_customizer.php:288
+msgid "You can select on how many Columns you want to show your services."
+msgstr ""
+
+#: core/metadata/data_customizer.php:319
+msgid "You can select on how many Columns you want to show your team members."
+msgstr ""
+
+#: core/metadata/data_customizer.php:350
+msgid "You can select on how many Columns you want to show your testimonials."
+msgstr ""
+
+#: core/markup.php:953
+msgid "Your comment is awaiting approval."
+msgstr ""
